@@ -1,2 +1,2 @@
 # Edimar-PC-3Tri-1D
-Renan Santana/Yuri Hendrik
+Renan Santana/Yuri Hendrik/Patrick Silva
