@@ -2,15 +2,21 @@
     <html>
         <head>
             <meta charset="UTF-8">
-    <TITLE>
-        street e-sports
-    </TITLE>
-
+            <title>Produtos - Barbearia Alura</title>
+            <link rel="stylesheet" href="produtos">
     </head>
-    <body> 
-     
-       </ul>
-    <li> </li>
-       
-        </ul>
-       
+    <body>
+       <header>
+           <H1><img src="logo.jpeg"></h1>  
+
+
+           </nava>
+               <ul>
+                   <li><a href="index.html">Home</a></li>li>
+                   <li><a href="produtos>html">Produtos</a></li>
+                   <li><a hrerf="contato>html">contato</a></li>
+               </ul>
+            </nav>
+         </header>
+     </body>
+  </html>        
